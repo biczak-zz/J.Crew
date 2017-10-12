@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import axios from 'axios';
-import { Grid, Card, Image, Menu, Segment, Button, Divider, Container } from 'semantic-ui-react';
+import { Grid, Image, Menu, Button, Divider, Container } from 'semantic-ui-react';
 import '../css/product.css';
 
 class Product extends Component {
